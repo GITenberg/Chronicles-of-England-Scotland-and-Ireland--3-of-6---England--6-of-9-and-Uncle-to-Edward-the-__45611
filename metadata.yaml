@@ -1,0 +1,35 @@
+_repo: Chronicles-of-England-Scotland-and-Ireland--3-of-6---England--6-of-9-and-Uncle-to-Edward-the-__45611
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45611-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Holinshed, Raphael
+    aliases:
+    - Holynshed, Raphael
+    - Holinshed, Raphaell
+    - Holingshed, Raphael
+    - Holinshed, Ralph
+    - Holinshead, Raphael
+    gutenberg_agent_id: '5166'
+    url: http://www.gutenberg.org/2009/agents/5166
+    wikipedia: http://en.wikipedia.org/wiki/Raphael_Holinshed
+description: ''
+gutenberg_issued: '2014-05-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45611'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- History -- Tudors, 1485-1603'
+- !lcsh 'Great Britain -- History -- Richard III, 1483-1485'
+- !lcc 'DA'
+- !lcsh 'Great Britain -- History -- To 1485'
+title: "Chronicles of England, Scotland and Ireland (3 of 6): England (6 of 9)\r\n\
+  Richard the Third, Third Sonne to Richard Duke of Yorke, and Uncle to Edward the\
+  \ Fift"
+url: http://www.gutenberg.org/ebooks/45611
