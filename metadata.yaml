@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5166
     wikipedia: http://en.wikipedia.org/wiki/Raphael_Holinshed
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45611#Chronicles-of-England-Scotland-and-Ireland--3-of-6---England--6-of-9-and-Uncle-to-Edward-the-_
 gutenberg_issued: '2014-05-08'
 gutenberg_type: Text
 identifiers:
